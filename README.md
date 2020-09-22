@@ -24,7 +24,7 @@ Lighthaus aims to provide a balanced contrast between various elements on the sc
 #### Benefits
 All colors have a min contrast ratio of 4.5 against the background color. As recommended by the [WCAG2.1](https://www.w3.org/TR/WCAG/#contrast-minimum).</br>
 
-> People with low vision often have difficulty reading text that does not contrast with its background. This can be exacerbated if the person has a color vision deficiency that lowers the contrast even further. Providing a minimum luminance contrast ratio between the text and its background can make the text more readable even if the person does not see the full range of colors. It also works for the rare individuals who see no color. 
+> People with low vision often have difficulty reading text that does not contrast with its background. This can be exacerbated if the person has a color vision deficiency that lowers the contrast even further. Providing a minimum luminance contrast ratio between the text and its background can make the text more readable even if the person does not see the full range of colors. It also works for the rare individuals who see no color.
 
 **[Source](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html#benefits)**
 
@@ -46,19 +46,23 @@ Palette
 ### Supported Projects
 Lighthaus configs for the projects listed below exist already. More projects will be gradually added. </br>
 
-[![alacritty](https://img.shields.io/badge/ALACRITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/alacritty) 
-[![bottom](https://img.shields.io/badge/BOTTOM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/bottom) 
-[![Dunst](https://img.shields.io/badge/DUNST-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/dunst) 
-[![i3](https://img.shields.io/badge/i3_WM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/i3) 
-[![iTerm](https://img.shields.io/badge/iTerm-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/iterm) 
-[![Kitty](https://img.shields.io/badge/KITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/kitty) 
-[![Konsole](https://img.shields.io/badge/KONSOLE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/konsole) 
+[![adobe](https://img.shields.io/badge/ADOBE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/adobe)
+[![alacritty](https://img.shields.io/badge/ALACRITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/alacritty)
+[![bottom](https://img.shields.io/badge/BOTTOM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/bottom)
+[![Dunst](https://img.shields.io/badge/DUNST-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/dunst)
+[![Firefox](https://img.shields.io/badge/FIREFOX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/firefox)
+[![i3](https://img.shields.io/badge/i3_WM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/i3)
+[![iTerm](https://img.shields.io/badge/iTerm-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/iterm)
+[![Kitty](https://img.shields.io/badge/KITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/kitty)
+[![Konsole](https://img.shields.io/badge/KONSOLE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/konsole)
 [![rofi](https://img.shields.io/badge/ROFI-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/rofi)
 [![terminal-app](https://img.shields.io/badge/TERMINAL_APP-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/terminal-app)
 [![terminator](https://img.shields.io/badge/TERMINATOR-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/terminator)
 [![termite](https://img.shields.io/badge/TERMITE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termite)
 [![termux](https://img.shields.io/badge/TERMUX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termux)
 [![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/tilix)
+[![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xfce-terminal)
+[![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xresources)
 [![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zathura)
 [![zsh](https://img.shields.io/badge/ZSH_PROMPT-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zsh)
 

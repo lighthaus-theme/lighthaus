@@ -33,6 +33,19 @@ _06.09.2020_
     - [Tilix](https://github.com/lighthaus-theme/tilix)
     - [Zathura](https://github.com/lighthaus-theme/zathura)
 
+_09.09.2020_
+- First Project Commit
+- Project support added for:
+    - [Xfce-Terminal](https://github.com/lighthaus-theme/xfce-terminal)
+    - [Xresources](https://github.com/lighthaus-theme/xresources)
+
+_17.09.2020_
+- [Lighthaus Website](https://lighthaustheme.com/) went live.
+
+_22.09.2020_
+- First Project Commit
+- Project support added for:
+    - [Adobe Swatches](https://github.com/lighthaus-theme/adobe)
 
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
