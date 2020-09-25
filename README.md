@@ -11,6 +11,7 @@ A focused dark color theme inspired by the striking features of a  lighthouse an
 - [Screenshots](#screenshots)
 - [Color Palette](#color-palette)
 - [Supported Projects](#supported-projects)
+- [Wallpapers](#wallpapers)
 - [Version](#version)
 - [Bugs/Issues](#bugs/issues)
 - [License](#license)
@@ -61,10 +62,26 @@ Lighthaus configs for the projects listed below exist already. More projects wil
 [![termite](https://img.shields.io/badge/TERMITE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termite)
 [![termux](https://img.shields.io/badge/TERMUX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termux)
 [![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/tilix)
+[![vim](https://img.shields.io/badge/VIM_AIRLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
 [![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xfce-terminal)
 [![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xresources)
 [![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zathura)
 [![zsh](https://img.shields.io/badge/ZSH_PROMPT-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zsh)
+
+
+### Wallpapers
+Wallpapers are available in the following sizes: 
+- 2560 x 1440p
+- 1920 x 1080p
+- 3440 x 1440p
+- 3840 x 2160p
+- 1440p for phones
+
+Wallpapers with graphics: <br>
+[Ocean](https://imgur.com/a/EUc75Va), [Night](https://imgur.com/a/mUvebg0), [Minimal](https://imgur.com/a/ZVr2fVj), [Dawn](https://imgur.com/a/N6z90RU), [Black](https://imgur.com/a/228cjLF)
+
+Abstract Wallpapers: <br>
+[Fire](https://imgur.com/a/WAmLpnl), [Air](https://imgur.com/a/TGkbnpy), [Water](https://imgur.com/a/BosNHsT), [Earth](https://imgur.com/a/dCf4EYv)
 
 ### Version
 ```

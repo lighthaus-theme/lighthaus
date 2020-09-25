@@ -42,11 +42,19 @@ _09.09.2020_
 _17.09.2020_
 - [Lighthaus Website](https://lighthaustheme.com/) went live.
 
+_18.09.2020_
+- Lighthaus Wallpapers available.
+
 _22.09.2020_
 - First Project Commit
 - Project support added for:
     - [Adobe Swatches](https://github.com/lighthaus-theme/adobe)
 
+_25.09.2020_
+- First Project Commit
+- Project support added for:
+    - [Vim-Airline](https://github.com/lighthaus-theme/vim)
+    
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
 
