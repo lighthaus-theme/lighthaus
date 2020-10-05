@@ -63,6 +63,7 @@ Lighthaus configs for the projects listed below exist already. More projects wil
 [![termux](https://img.shields.io/badge/TERMUX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termux)
 [![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/tilix)
 [![vim](https://img.shields.io/badge/VIM_AIRLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
+[![vim](https://img.shields.io/badge/VIM_LIGHTLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
 [![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xfce-terminal)
 [![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xresources)
 [![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zathura)

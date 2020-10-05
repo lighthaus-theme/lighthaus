@@ -55,6 +55,12 @@ _25.09.2020_
 - Project support added for:
     - [Vim-Airline](https://github.com/lighthaus-theme/vim)
     
+_05.10.2020_
+- First Project Commit
+- Project support added for:
+    - [Vim Lightline](https://github.com/lighthaus-theme/vim)
+
+
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
 
