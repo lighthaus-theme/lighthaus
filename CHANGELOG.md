@@ -1,11 +1,12 @@
 # Changelog
 
 ### Table of Contents
-- [v1.0.0](#v1.0.0)
+- [Updates](#updates)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
-## v1.0.0
+## Updates
+
 _04.09.2020_
 - First Project Commit
 - Project support added for:
@@ -60,6 +61,12 @@ _05.10.2020_
 - Project support added for:
     - [Vim Lightline](https://github.com/lighthaus-theme/vim)
 
+_22.10.2020_
+- First Project Commit
+- Project support added for:
+    - [Gnome-Terminal](https://github.com/lighthaus-theme/gnome-terminal)
+    - [Windows-Terminal](https://github.com/lighthaus-theme/windows-terminal)
+    - [Fluent Terminal](https://github.com/lighthaus-theme/fluent-terminal)
 
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>

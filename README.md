@@ -47,11 +47,12 @@ Palette
 ### Supported Projects
 Lighthaus configs for the projects listed below exist already. More projects will be gradually added. </br>
 
-[![adobe](https://img.shields.io/badge/ADOBE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/adobe)
+[![adobe](https://img.shields.io/badge/ADOBE_SWATCH-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/adobe)
 [![alacritty](https://img.shields.io/badge/ALACRITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/alacritty)
 [![bottom](https://img.shields.io/badge/BOTTOM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/bottom)
 [![Dunst](https://img.shields.io/badge/DUNST-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/dunst)
-[![Firefox](https://img.shields.io/badge/FIREFOX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/firefox)
+[![fluent-terminal](https://img.shields.io/badge/FLUENT_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/fluent-terminal)
+[![gnome-terminal](https://img.shields.io/badge/GNOME_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/gnome-terminal)
 [![i3](https://img.shields.io/badge/i3_WM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/i3)
 [![iTerm](https://img.shields.io/badge/iTerm-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/iterm)
 [![Kitty](https://img.shields.io/badge/KITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/kitty)
@@ -64,6 +65,7 @@ Lighthaus configs for the projects listed below exist already. More projects wil
 [![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/tilix)
 [![vim](https://img.shields.io/badge/VIM_AIRLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
 [![vim](https://img.shields.io/badge/VIM_LIGHTLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
+[![windows-terminal](https://img.shields.io/badge/WINDOWS_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/windows-terminal)
 [![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xfce-terminal)
 [![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xresources)
 [![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zathura)
