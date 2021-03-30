@@ -1,9 +1,7 @@
+<p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/lighthaus-illustration.jpg?raw=true"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/lighthaus-illustration.jpg"></p>
-
-# <p align="center"> _Lighthaus Theme_ </p>
+<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/7feff4fbd39416d2c5972b1f4d6537955ccedf14/assets/lighthaus-badge.svg" width=350></p>
 A focused dark color theme inspired by the striking features of a  lighthouse and the calm of the ocean at night time.
-<p align="left"><img src="https://img.shields.io/static/v1.svg??style=flat&label=Maintained&message=Yes&colorA=1C918A&colorB=50C16E"/></a></p>
 
 ### Table of Contents
 - [Introduction](#introduction)
@@ -31,45 +29,44 @@ All colors have a min contrast ratio of 4.5 against the background color. As rec
 
 ### Screenshots
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/konsole-01.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/scrot.png?raw=true"><p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/htop.png"><p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/konsole-02.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/htop.png?raw=true"><p>
 
 ### Color Palette
 Special Colors
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/lighthaus-color-special.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/lighthaus-color-special.png?raw=true"><p>
 
 Palette
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/master/ImageResources/lighthaus-color-palette.png"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/lighthaus-color-palette.png?raw=true"><p>
 
 ### Supported Projects
 Lighthaus configs for the projects listed below exist already. More projects will be gradually added. </br>
 
-[![adobe](https://img.shields.io/badge/ADOBE_SWATCH-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/adobe)
-[![alacritty](https://img.shields.io/badge/ALACRITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/alacritty)
-[![bottom](https://img.shields.io/badge/BOTTOM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/bottom)
-[![Dunst](https://img.shields.io/badge/DUNST-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/dunst)
-[![fluent-terminal](https://img.shields.io/badge/FLUENT_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/fluent-terminal)
-[![gnome-terminal](https://img.shields.io/badge/GNOME_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/gnome-terminal)
-[![i3](https://img.shields.io/badge/i3_WM-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/i3)
-[![iTerm](https://img.shields.io/badge/iTerm-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/iterm)
-[![Kitty](https://img.shields.io/badge/KITTY-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/kitty)
-[![Konsole](https://img.shields.io/badge/KONSOLE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/konsole)
-[![rofi](https://img.shields.io/badge/ROFI-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/rofi)
-[![terminal-app](https://img.shields.io/badge/TERMINAL_APP-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/terminal-app)
-[![terminator](https://img.shields.io/badge/TERMINATOR-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/terminator)
-[![termite](https://img.shields.io/badge/TERMITE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termite)
-[![termux](https://img.shields.io/badge/TERMUX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/termux)
-[![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/tilix)
-[![vim](https://img.shields.io/badge/VIM_AIRLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
-[![vim](https://img.shields.io/badge/VIM_LIGHTLINE-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/vim)
-[![windows-terminal](https://img.shields.io/badge/WINDOWS_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/windows-terminal)
-[![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xfce-terminal)
-[![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/xresources)
-[![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zathura)
-[![zsh](https://img.shields.io/badge/ZSH_PROMPT-blue?style=flat&color=090B26)](https://github.com/lighthaus-theme/zsh)
+[![adobe](https://img.shields.io/badge/ADOBE_SWATCH-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/adobe)
+[![alacritty](https://img.shields.io/badge/ALACRITTY-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/alacritty)
+[![bottom](https://img.shields.io/badge/BOTTOM-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/bottom)
+[![Dunst](https://img.shields.io/badge/DUNST-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/dunst)
+[![fluent-terminal](https://img.shields.io/badge/FLUENT_TERMINAL-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/fluent-terminal)
+[![gnome-terminal](https://img.shields.io/badge/GNOME_TERMINAL-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/gnome-terminal)
+[![i3](https://img.shields.io/badge/i3_WM-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/i3)
+[![iTerm](https://img.shields.io/badge/iTerm-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/iterm)
+[![Kitty](https://img.shields.io/badge/KITTY-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/kitty)
+[![Konsole](https://img.shields.io/badge/KONSOLE-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/konsole)
+[![rofi](https://img.shields.io/badge/ROFI-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/rofi)
+[![terminal-app](https://img.shields.io/badge/TERMINAL_APP-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/terminal-app)
+[![terminator](https://img.shields.io/badge/TERMINATOR-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/terminator)
+[![termite](https://img.shields.io/badge/TERMITE-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/termite)
+[![termux](https://img.shields.io/badge/TERMUX-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/termux)
+[![tilix](https://img.shields.io/badge/TILIX-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/tilix)
+[![vim](https://img.shields.io/badge/VIM-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/vim)
+[![vim](https://img.shields.io/badge/VIM_AIRLINE-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/vim)
+[![vim](https://img.shields.io/badge/VIM_LIGHTLINE-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/vim)
+[![windows-terminal](https://img.shields.io/badge/WINDOWS_TERMINAL-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/windows-terminal)
+[![xfce-terminal](https://img.shields.io/badge/XFCE_TERMINAL-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/xfce-terminal)
+[![xresources](https://img.shields.io/badge/XRESOURCES-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/xresources)
+[![zathura](https://img.shields.io/badge/ZATHURA-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/zathura)
+[![zsh](https://img.shields.io/badge/ZSH_PROMPT-blue?style=flat&color=21252D)](https://github.com/lighthaus-theme/zsh)
 
 
 ### Wallpapers
@@ -87,21 +84,24 @@ Abstract Wallpapers: <br>
 [Fire](https://imgur.com/a/WAmLpnl), [Air](https://imgur.com/a/TGkbnpy), [Water](https://imgur.com/a/BosNHsT), [Earth](https://imgur.com/a/dCf4EYv)
 
 ### Version
+``` vim
+v 1.1.0
 ```
-v 1.0.0
-```
-Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
 All changes are recorded in [CHANGELOG](https://github.com/lighthaus-theme/lighthaus/blob/master/CHANGELOG.md).
+
+Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).
 
 ### Bugs/Issues
 Please report any bugs and/or issues [here](https://github.com/lighthaus-theme/lighthaus/issues).
 
 ### License
 
-_Copyright © 2020-Present Lighthaus Theme_<br>
-_Copyright © 2020-Present Adhiraj Sirohi_<br>
+_Copyright © 2020-Present Lighthaus Theme_
+
+_Copyright © 2020-Present Adhiraj Sirohi_
+
 _Copyright © 2020-Present Vasundhara Sharma_
 
 <p align="left"><a href="https://github.com/lighthaus-theme/lighthaus/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg??style=flat&label=License&message=MIT&colorA=1C918A&colorB=50C16E"/></a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/9e5cf66db03fc3e183e6cfbf7c4c04263a4f23df/ImageResources/lighthaus-border.svg"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/5685ed20b30b7bace68a41c28037dee960172839/assets/lighthaus-border.svg"><p>
