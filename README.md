@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/lighthaus-theme/lighthaus/blob/master/assets/lighthaus-illustration.jpg?raw=true"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus/7feff4fbd39416d2c5972b1f4d6537955ccedf14/assets/lighthaus-badge.svg" width=350></p>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/asirohi"><img alt="Status" src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme/3cc9fd60c69da89f56721ca9048f38709b3dc878/BuyUsACoffee.svg" width="150" height="23">
+</p>
 A focused dark color theme inspired by the striking features of a  lighthouse and the calm of the ocean at night time.
 
 ### Table of Contents
